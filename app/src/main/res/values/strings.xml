@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Despacho TCONTUR</string>
+    <string name="log_out">Salir</string>
+    <string name="log_out_forget">Salir y Olvidar Clave</string>
+    <string name="logo_tcontur">Logo TCONTUR</string>
+    <string name="remember">Recordar</string>
+    <string name="login">INGRESAR</string>
+</resources>
